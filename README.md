@@ -6,7 +6,7 @@ Welcome to my blog post! In this article, we'll explore the key distinctions bet
 
 ## write a blog on the the Difference between `document` and `window` Objects.
 
-  -If you'd like to dive deeper into the differences between the `document` and `window` objects, check out my blog post [click here](https://medium.com/@yahinisekar/exploring-the-difference-between-window-and-document-objects-7f3deccaec96).
+  - If you'd like to dive deeper into the differences between the `document` and `window` objects, check out my blog post [click here](https://medium.com/@yahinisekar/exploring-the-difference-between-window-and-document-objects-7f3deccaec96).
 
 
 
@@ -34,17 +34,17 @@ heading.textContent = 'New Heading';
 ```
  ### Key Differences
  
-  -While both objects are closely related and often used together, they have distinct purposes:
+  - While both objects are closely related and often used together, they have distinct purposes:
 
-     -The window object represents the entire browser window and provides global functionalities.
+     - The window object represents the entire browser window and provides global functionalities.
 The document object is a property of the window object and specifically deals with the HTML document's content.
 
 ### Use Cases
 
--Understanding when to use each object is crucial for effective web development:
+- Understanding when to use each object is crucial for effective web development:
 
-   --Use the window object for global functionalities, such as handling browser events, managing the window size, and controlling navigation.
-   --Use the document object for manipulating the content of the HTML document, such as updating elements, handling user interactions, and modifying styles.
+   -- Use the window object for global functionalities, such as handling browser events, managing the window size, and controlling navigation.
+   -- Use the document object for manipulating the content of the HTML document, such as updating elements, handling user interactions, and modifying styles.
 
 ## Conclusion
 
