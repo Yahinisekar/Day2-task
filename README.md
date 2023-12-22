@@ -43,8 +43,9 @@ The document object is a property of the window object and specifically deals wi
 
 - Understanding when to use each object is crucial for effective web development:
 
-   -- Use the window object for global functionalities, such as handling browser events, managing the window size, and controlling navigation.
-   -- Use the document object for manipulating the content of the HTML document, such as updating elements, handling user interactions, and modifying styles.
+   - Use the window object for global functionalities, such as handling browser events, managing the window size, and controlling navigation.
+   
+   - Use the document object for manipulating the content of the HTML document, such as updating elements, handling user interactions, and modifying styles.
 
 ## Conclusion
 
